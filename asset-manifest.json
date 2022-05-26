@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Just-Practice/static/css/main.b62d142a.css",
+    "main.js": "/Just-Practice/static/js/main.cfe6d3d8.js",
+    "static/js/787.013b6fbf.chunk.js": "/Just-Practice/static/js/787.013b6fbf.chunk.js",
+    "index.html": "/Just-Practice/index.html",
+    "main.b62d142a.css.map": "/Just-Practice/static/css/main.b62d142a.css.map",
+    "main.cfe6d3d8.js.map": "/Just-Practice/static/js/main.cfe6d3d8.js.map",
+    "787.013b6fbf.chunk.js.map": "/Just-Practice/static/js/787.013b6fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62d142a.css",
+    "static/js/main.cfe6d3d8.js"
+  ]
+}
